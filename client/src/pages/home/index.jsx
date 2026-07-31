@@ -1,10 +1,9 @@
 import Footer from "../../components/footer";
 import Navbar from "../../components/navbar";
-import Hero from "../../components/Hero";
-import Categories from "../../components/Categories";
-import FeaturedProducts from "../../components/FeaturedProducts";
-import WhyChooseUs from "../../components/WhyChooseUs";
-
+import Hero from "../../components/hero";
+import Categories from "../../components/categories";
+import FeaturedProducts from "../../components/featuredproducts";
+import WhyChooseUs from "../../components/whychooseus";
 function Home() {
   return (
     <>
