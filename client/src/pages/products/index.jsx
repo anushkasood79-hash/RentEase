@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useSearchParams } from "react-router-dom";
-import Navbar from "../../components/Navbar";
-import ProductCard from "../../components/ProductCard";
+import Navbar from "../../components/navbar";
+import ProductCard from "../../components/productcard";
 import products from "../../data/products";
 
 function Products() {
